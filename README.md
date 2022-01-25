@@ -1,14 +1,13 @@
 
 # 60Days Projects Challenge
 
-Projects that I will be working on next two months. These projects include complete development and some include partial components!!
+Here is the list of projects that I wish to work in next two months. These projects include complete development and some include partial components!!
 
 
 I have included few design phases, explorations in between projects to get some fresh air :>
 
 
-
-#### Be my coding buddy if you wish to join this challege :)
+#### Be my coding buddy if you wish to join this challege slong with me :)
 #### Hit me up on : harshith.tunuguntla.19cse@bmu.edu.in
 
 ### 
