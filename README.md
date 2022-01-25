@@ -17,10 +17,10 @@ I have included few design phases, explorations in between projects to get some 
 - [x] Kick-off
 - [ ] Random password generator and  validator
 - [ ] Notes based web app
-- [ ] Contribution of ideas, webapp. Inspired from https://www.ideasgrab.com/
+- [ ] Contribution of ideas, webapp. Inspired from [https://www.ideasgrab.com/]
 - [ ] Quizzing Platform
 - [ ] Custom Calendar to set our deadlines, plans etx
-- [ ] Clone of a website/app
+- [ ] Design clone of a website/app
 - [ ] Explore serverless functions
 - [ ] Pricing table design
 - [ ] Voting app 
