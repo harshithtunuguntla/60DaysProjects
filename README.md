@@ -16,7 +16,7 @@ I have included few design phases, explorations in between projects to get some 
 
 - [x] Kick-off
 - [ ] Random password generator and  validator
-- [ ] Notes based web app
+- [ ] Notes based web app, using local storage
 - [ ] Contribution of ideas, webapp. Inspired from [https://www.ideasgrab.com/]
 - [ ] Quizzing Platform
 - [ ] Custom Calendar to set our deadlines, plans etx
@@ -28,11 +28,11 @@ I have included few design phases, explorations in between projects to get some 
 - [ ] Portfolio Design
 - [ ] Web Crawler
 - [ ] Explore TailWind CSS and others
-- [ ] Oauth Login 
+- [ ] Oauth Signup, Login 
 - [ ] Markdown implementation in webapps
 - [ ] Search Bar - Image Search
 - [ ] Single Page Promotion, Design and implementation
-- [ ] Authentication system, Login/Signup
+- [ ] Authentication system, Login/Signup, Session Expiry
 - [ ] Chatting webapp
 - [ ] Symmetric encryption to pass data to API end point and receive it simultaneously. A small needed to be developed as a part of it
 - [ ] Payment Gateway Integration
