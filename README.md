@@ -17,7 +17,7 @@ I have included few design phases, explorations in between projects to get some 
 - [x] Kick-off
 - [x] Random password generator and  validator
 - [ ] Notes based web app, using local storage
-- [ ] Contribution of ideas, webapp. Inspired from [https://www.ideasgrab.com/]
+- [x] Contribution of ideas, webapp. Inspired from [https://www.ideasgrab.com/]
 - [ ] Quizzing Platform
 - [ ] Custom Calendar to set our deadlines, plans etx
 - [ ] Design clone of a website/app
