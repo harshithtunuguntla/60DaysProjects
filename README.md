@@ -1,5 +1,5 @@
 
-# 60Days Projects Challenge
+# Projects List
 
 Here is the list of projects that I wish to work in next two months. These projects include complete development and some include partial components!!
 
