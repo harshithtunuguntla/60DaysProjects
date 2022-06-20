@@ -56,4 +56,3 @@ I have included few design phases, explorations in between projects to get some 
 
 
 
-#### Hopefully, list will be done before April ;}
